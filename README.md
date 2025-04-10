@@ -49,15 +49,14 @@ Rogue Heist encourages the player to experiment with different strategies — st
 ## 📈 Progression
 
 - **Difficulty Scaling**: As you progress, the AI becomes more aggressive, and guards become more difficult to take out.
-- **Unlockables**: New gadgets (e.g., silent weapons, hacking tools) and health upgrades become available as you survive longer runs.
+- **Unlockables**: New gadgets depending on the character choice (e.g., silent weapons for Lewis, or hacking tools for Layla) and health upgrades become available as you survive longer runs.
 
 ## 🛠️ How to Play
 
-1. Clone or download the repository.
-2. Run the game using **Godot Engine**.
-3. Follow on-screen instructions to control your character (movement, stealth, combat).
-4. Use **[E]** to perform stealth kills and avoid detection.
-5. Survive through lockdowns or fight your way out!
+1. Follow on-screen instructions to control your character (movement, stealth, combat).
+2. Use **[E]** to perform stealth kills and avoid detection.
+3. Use [Left mouse], [L], or [L2] to shoot weapons or use gadgets
+4. Survive through lockdowns or fight your way out!
 
 ## 💻 Technologies
 
@@ -65,13 +64,4 @@ Rogue Heist encourages the player to experiment with different strategies — st
 - **Languages**: GDScript (Godot's scripting language)
 - **Libraries**: Godot's built-in tools
 
-## 🤝 Contributions
-
-- Fork this repository to contribute your ideas, bug fixes, or additional features.
-- Feel free to submit issues or pull requests.
-
-## 📅 Milestones
-
-- **Alpha 1.0**: Basic stealth mechanics, combat system, and lockdown feature.
-- **Beta 1.0**: Full AI implementation, dynamic environments, and enhanced combat.
 
