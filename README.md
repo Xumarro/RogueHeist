@@ -44,7 +44,7 @@ Rogue Heist encourages the player to experiment with different strategies — st
 1. **Start Infiltration**: Begin the heist by sneaking through high-security rooms, avoiding guards, and collecting loot.
 2. **Get Spotted**: If spotted by a guard, you can choose to fight or retreat. 
 3. **Lockdown Triggered**: If you’re careless and leave bodies behind, the lockdown will trigger, and reinforcements will arrive.
-4. **Escape or Fight**: Once in lockdown, your objective changes to either escaping or surviving until you can disable the lockdown, if you decide to fight, you have additional time to grab any last minute items before the round ends.
+4. **Escape or Fight**: Once in lockdown, your objective changes to either escaping or surviving until you can disable the lockdown, if you decide to fight, you have additional time after all guards are eliminated to grab any last minute items before the round ends.
 
 ## 📈 Progression
 
