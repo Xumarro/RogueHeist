@@ -58,10 +58,5 @@ Rogue Heist encourages the player to experiment with different strategies — st
 3. Use [Left mouse], [LT], or [L2] to shoot weapons or use gadgets
 4. Survive through lockdowns or fight your way out!
 
-## 💻 Technologies
-
-- **Game Engine**: Godot Engine (2D)
-- **Languages**: GDScript (Godot's scripting language)
-- **Libraries**: Godot's built-in tools
 
 
